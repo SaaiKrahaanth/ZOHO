@@ -1,0 +1,24 @@
+
+
+this line is inserted using echo command
+
+this line is typed by using vi
+vi stands for Visual Editor — it is a powerful, keyboard-based text editor used in Unix/Linux systems (including Git Bash).
+
+🔹 Key Points About vi:
+It runs in the terminal.
+
+It has modes:
+
+Command mode (default): for commands like saving, quitting.
+
+Insert mode: for typing text.
+
+🔹 Common vi Commands:
+Action	Command
+Enter insert mode	i
+Exit insert mode	Esc
+Save file	:w
+Quit vi	:q
+Save and quit	:wq or ZZ
+Quit without saving	:q!
